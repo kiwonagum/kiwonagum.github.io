@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://kiwonagum.github.io/sitemap.html.gz
+Sitemap: https://kiwonagum.github.io/app/sitemap.html.gz
+Sitemap: https://kiwonagum.github.io/assets/sitemap.html.gz
+Sitemap: https://kiwonagum.github.io/css/sitemap.html.gz
+Sitemap: https://kiwonagum.github.io/includes/sitemap.html.gz
+Sitemap: https://kiwonagum.github.io/item/sitemap.html.gz
+Sitemap: https://kiwonagum.github.io/src/sitemap.html.gz
